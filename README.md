@@ -79,8 +79,8 @@ Diseñar una interfaz moderna y funcional aplicando los principios de **Material
 
 ## 👤 Autores
 
-Dennis Amaru Cruz Abrego
-Richard Bernard Castro Fonseca
+* Richard Bernard Castro Fonseca
+* Dennis Amaru Cruz Abrego
 
 ---
 
